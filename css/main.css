@@ -1,0 +1,33 @@
+body {
+    background-color:#000080;
+}
+
+.block {
+	margin-top: 20px;
+	text-align: center;
+    font-size: 36px;
+    color: #CCC;
+}
+.block-1 {
+	margin-top: 20px;
+	text-align: center;
+    font-size: 18px;
+    color: #CCC;
+}
+.elem {
+	background-color: yellow;
+}
+#area{
+	display: block;
+	 margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+}
+.inputs{
+
+	display: block;
+	 margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top: 30px;
+}
